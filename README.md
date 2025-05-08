@@ -13,7 +13,7 @@ I loooove that London has so many parks and greenspaces and I am determined to r
 
 ## Park Tracker Preview
 Shows all the parks in zone 1 and 2, with a tree icon indicating I have ran at that park, and a leaf icon indicating I have not run at that park. Popups include the run description and date, with Holland Park selected as an example in the image below. The map automatically updates with new runs and routes each time I re-run the notebook!
-![Parks](map_previews/park_tracker_preview.png)
+![Parks](map_previews/park_tracker_preview2.png)
 
 ## Heatmap Preview
 A heatmap overlay of all my routes to display where I have run across London! (Yes I know I need to branch out more hopefully this project will help :0)
