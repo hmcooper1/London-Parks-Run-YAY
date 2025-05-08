@@ -1,5 +1,5 @@
 # London-Parks-Run-YAY
-Click here to view the full notebook - _ maps do not display on GitHub.
+[Click here](https://nbviewer.org/github/hmcooper1/London-Parks-Run-YAY/blob/main/london_parks_run_yay.ipynb) to view the full notebook - Folium maps do not display on GitHub
 
 ## Overview
 I loooove that London has so many parks and greenspaces and I am determined to run in as many of them as possible! I created two maps for this project - the first tracks which parks in zone 1 and 2 I have ran in and which I haven't, and the second shows a heatmap of all my routes. I am starting with attempting to run at 50 parks.
@@ -13,7 +13,8 @@ I loooove that London has so many parks and greenspaces and I am determined to r
 
 ## Park Tracker Preview
 Shows all the parks in zone 1 and 2, with a tree icon indicating I have ran at that park, and a leaf icon indicating I have not run at that park. Popups include the run description and date, as shown in the image below. The map automatically updates with new runs and routes each time I re-run the notebook!
+![Parks](map_previews/heatmap_preview.png)
 
 ## Heatmap Preview
 A heatmap overlay of all of routes to display where I have ran across London!
-![Heatmap](heatmap_preview.png)
+![Heatmap](map_previews/heatmap_preview.png)
