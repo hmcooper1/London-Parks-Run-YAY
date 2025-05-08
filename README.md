@@ -12,7 +12,7 @@ I loooove that London has so many parks and greenspaces and I am determined to r
   - Use the date and description data from each activity to add personalised popups to each completed park marker
 
 ## Park Tracker Preview
-All greenspaces across London are shaded, with markers highlighting parks located in Zones 1 and 2. A tree icon indicates parks where I’ve run, while a leaf icon marks parks I haven't run. Popups include the run description and date, with Holland Park selected as an example in the image below. The map automatically updates with new runs and routes each time I re-run the notebook!
+All greenspaces across London are shaded, with markers highlighting parks located in zones 1 and 2. A tree icon indicates parks where I’ve run, while a leaf icon marks parks I haven't run. Popups include the run description and date, with Holland Park selected as an example in the image below. The map automatically updates with new runs and routes each time I re-run the notebook!
 ![Parks](map_previews/park_tracker.png)
 
 ## Heatmap Preview
