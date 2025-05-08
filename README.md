@@ -8,12 +8,12 @@ I loooove that London has so many parks and greenspaces and I am determined to r
 - **Greenspace Information for Greater London (GiGL)**:
   - Defines park boundaries, which I use for shading in green/bluespaces on the map as well as checking whether a run intersects with a known park
 - **Strava API**:
- - Pulls all my activity data including GPS routes allowing me to decode the route polylines and match them to park names
- - Use the date and description data from each activity to add personalised popups to each completed park marker
+  - Pulls all my activity data including GPS routes allowing me to decode the route polylines and match them to park names
+  - Use the date and description data from each activity to add personalised popups to each completed park marker
 
 ## Park Tracker Preview
 Shows all the parks in zone 1 and 2, with a tree icon indicating I have ran at that park, and a leaf icon indicating I have not run at that park. Popups include the run description and date, as shown in the image below. The map automatically updates with new runs and routes each time I re-run the notebook!
 
 ## Heatmap Preview
 A heatmap overlay of all of routes to display where I have ran across London!
-
+![Heatmap](heatmap_preview.png)
