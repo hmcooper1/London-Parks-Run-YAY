@@ -1,1 +1,19 @@
 # London-Parks-Run-YAY
+Click here to view the full notebook - _ maps do not display on GitHub.
+
+## Overview
+I loooove that London has so many parks and greenspaces and I am determined to run in as many of them as possible! I created two maps for this project - the first tracks which parks in zone 1 and 2 I have ran in and which I haven't, and the second shows a heatmap of all my routes. I am starting with attempting to run at 50 parks.
+
+## Data
+- **Greenspace Information for Greater London (GiGL)**:
+  - Defines park boundaries, which I use for shading in green/bluespaces on the map as well as checking whether a run intersects with a known park
+- **Strava API**:
+  - Pulls all my activity data including GPS routes allowing me to decode the route polylines and match them to park names
+  - Use the date and description data from each activity to add personalised popups to each completed park marker
+
+## Park Tracker Preview
+Shows all the parks in zone 1 and 2, with a tree icon indicating I have ran at that park, and a leaf icon indicating I have not run at that park. Popups include the run description and date, as shown in the image below. The map automatically updates with new runs and routes each time I re-run the notebook!
+
+## Heatmap Preview
+A heatmap overlay of all of routes to display where I have ran across London!
+![Heatmap](heatmap_preview.png)
