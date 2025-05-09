@@ -1,4 +1,4 @@
-# London-Parks-Run-YAY
+# Strava-London-Parks-YAY
 [Click here](https://nbviewer.org/github/hmcooper1/London-Parks-Run-YAY/blob/main/london_parks_run_yay.ipynb?flush_cache=true) to view the full notebook - Folium maps do not display on GitHub
 
 ## Overview
